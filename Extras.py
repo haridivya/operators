@@ -24,3 +24,10 @@ Sample input and output 2:
 1
 17
 '''
+no_balls=int(input())
+wides=int(input())
+byes=int(input())
+leg_byes=int(input())
+penalty=int(input())
+extras=no_balls+wides+byes+leg_byes+penalty*5
+print(extras)
