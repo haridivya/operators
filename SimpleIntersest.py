@@ -28,3 +28,7 @@ Sample Input 3
 Sample Output 3
 525.0
 '''
+principle=int(input())
+rate=int(input())
+time=int(input())
+print((principle*rate*time)/100)
