@@ -22,3 +22,6 @@ Sample Input 3
 Sample Output 3
 212.0
 '''
+temperature=int(input())
+celsius=(temperature*9/5)+32
+print(celsius)
