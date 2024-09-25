@@ -16,3 +16,9 @@ Sample input and output 2:
 60000
 354000.00
 '''
+x=int(input())
+y=int(input())
+t=x*.50*6
+t1=y*.40*5
+tt=t1+t
+print("%.2f"%tt)
