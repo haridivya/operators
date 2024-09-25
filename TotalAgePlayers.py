@@ -17,3 +17,8 @@ Sample input and output 2:
 30
 40
 '''
+total_age=int(input())
+x=int(input())
+y=int(input())
+z=total_age-(x+y)
+print(z)
